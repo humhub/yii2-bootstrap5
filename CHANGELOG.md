@@ -8,6 +8,9 @@ Yii Framework 2 bootstrap5 extension Change Log
 - Bug #74: Bootstrap5 Button is not registering clientEvents (simialbi)
 - Bug #72: Nav::isItemActive(): Return value must be of type bool, int returned (hirenbhut93)
 - Bug #62: Navbar can now accept `collapseOptions` to be `false` (theblindfrog)
+- Chg: `phpunit/phpunit` version from `6.5.14` to `8.5.39` to allow PHP version > 7.0 ([see phpunit commit](https://github.com/sebastianbergmann/phpunit/commit/73435f4bac40a63d18f04707858c738a64c1f7ed)) (marc-farre)
+- Chg: `bower-asset/bootstrap` version from `5.1.0` to `5.2.3` (marc-farre)
+- Chg: `twbs/bootstrap-icons` version from `1.7.2` to `1.11.3` (marc-farre)
 
 
 2.0.4 November 30, 2022

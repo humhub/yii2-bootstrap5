@@ -20,19 +20,23 @@
         {
             "name": "Simon Karlen",
             "email": "simi.albi@outlook.com"
+        },
+        {
+            "name": "Marc Farré",
+            "homepage": "https://marc.fun"
         }
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.2",
         "ext-json": "*",
-        "yiisoft/yii2": "^2.0.42",
-        "bower-asset/bootstrap": "^5.1.0"
+        "yiisoft/yii2": "^2.0.51"
     },
     "require-dev": {
         "yiisoft/yii2-coding-standards": "~2.0",
-        "phpunit/phpunit": "^6.5.14",
-        "twbs/bootstrap-icons": "^1.7.2"
+        "phpunit/phpunit": "^8.5.39",
+        "twbs/bootstrap-icons": "^v1.11.3",
+        "bower-asset/bootstrap": "^5.2.3"
     },
     "suggest": {
         "twbs/bootstrap-icons": "Add this package to the `require` section of your `composer.json` if you'd like to use the bootstrap icon asset."
