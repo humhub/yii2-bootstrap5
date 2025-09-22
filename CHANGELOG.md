@@ -5,6 +5,7 @@ Yii Framework 2 bootstrap5 extension Change Log
 ------------------------
 
 - Bug #88: Fix ButtonDropdown JS error (stevekr, simialbi)
+- Enh #83: In composer, use npm-asset/bootstrap instead of bower-asset/bootstrap (marc-farre)
 
 2.0.50 April 10, 2025
 ---------------------
